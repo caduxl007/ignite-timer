@@ -1,4 +1,4 @@
-<h1 align="center">Igite Timer</h1>
+<h1 align="center">Ignite Timer</h1>
 
 ### 🛠 Tecnologias
 
